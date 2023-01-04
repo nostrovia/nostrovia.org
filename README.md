@@ -1,8 +1,7 @@
-# nostrovia.org
-The weekly Nostr podcast
+![Untitled_Artwork 28](https://user-images.githubusercontent.com/8143945/210556301-8cac9d9d-40bd-4e78-90a1-56909d589521.png)
 
-The Nostrovia podcast gives you a weekly update on what's happening in the world of Nostr.   
+The podcast that tells you everything you need to know about Nostr this week.
 
-Create an issue if you want me to talk about your project.
+All the new projects, all the new cool stuff, all the new NIPs, it's all here. Once a week. Listen to it.
 
-The podcast will be released every Wednesday.
+Create an issue if you want me to talk about your project. The podcast will be released every Wednesday. 
