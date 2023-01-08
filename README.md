@@ -7,5 +7,10 @@
 
 ###### [Create an issue](https://github.com/gazhayes/nostrovia.org) if you want me to talk about your project. The podcast will be released every Wednesday. 
 
-Spotify: https://open.spotify.com/show/3FKrua9rST5DDKv0WeAqWn  
-RSS: https://anchor.fm/s/d8e8d5a4/podcast/rss
+#### Listen
+[https://anchor.fm/nostrovia](https://anchor.fm/nostrovia)
+
+Spotify: [https://open.spotify.com/show/3FKrua9rST5DDKv0WeAqWn](https://open.spotify.com/show/3FKrua9rST5DDKv0WeAqWn)  
+   
+RSS: [https://anchor.fm/s/d8e8d5a4/podcast/rss](https://anchor.fm/s/d8e8d5a4/podcast/rss).  
+   
