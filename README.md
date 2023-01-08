@@ -6,3 +6,6 @@
 ##### All the new projects, all the new cool stuff, all the new NIPs, it's all here. Once a week. Listen to it.
 
 ###### [Create an issue](https://github.com/gazhayes/nostrovia.org) if you want me to talk about your project. The podcast will be released every Wednesday. 
+
+Spotify: https://open.spotify.com/show/3FKrua9rST5DDKv0WeAqWn  
+RSS: https://anchor.fm/s/d8e8d5a4/podcast/rss
