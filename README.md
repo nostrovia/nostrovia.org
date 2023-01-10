@@ -14,7 +14,7 @@
 
 [Spotify](https://open.spotify.com/show/3FKrua9rST5DDKv0WeAqWn)  
    
-RSS: [https://anchor.fm/s/d8e8d5a4/podcast/rss](https://anchor.fm/s/d8e8d5a4/podcast/rss).  
+RSS: [https://anchor.fm/s/d8e8d5a4/podcast/rss](https://anchor.fm/s/d8e8d5a4/podcast/rss)  
    
 #### Hosts 
 **Bitkarrot:** npub18pudjhdhhp2v8gxnkttt00um729nv93tuepjda2jrwn3eua5tf5s80a699   
