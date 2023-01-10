@@ -7,7 +7,7 @@
 
 ###### [Create an issue](https://github.com/nostrovia/nostrovia.org) if you want me to talk about your project. The podcast will be released every Wednesday. 
 
-#### Listen
+### Listen Now
 [Fountain](https://fountain.fm/show/EHr7oroKVhkIAWNTGGRn)
 
 [Web](https://anchor.fm/nostrovia)
