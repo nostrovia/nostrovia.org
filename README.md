@@ -17,7 +17,7 @@ RSS: [https://anchor.fm/s/d8e8d5a4/podcast/rss](https://anchor.fm/s/d8e8d5a4/pod
 Twitter: [@nostroviapod](https://twitter.com/nostroviapod)
 
 #### Hosts  
-**gsovereignty:** npub1mygerccwqpzyh9pvp6pv44rskv40zutkfs38t0hqhkvnwlhagp6s3psn5p
+**gsovereignty:** npub1mygerccwqpzyh9pvp6pv44rskv40zutkfs38t0hqhkvnwlhagp6s3psn5p   
 **bitkarrot:** npub18pudjhdhhp2v8gxnkttt00um729nv93tuepjda2jrwn3eua5tf5s80a699  
 
 ###### Join the [Telegram Group](https://t.me/nostroviadispatch) if you want to come on the show to talk about your project.
