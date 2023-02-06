@@ -1,0 +1,9 @@
+{
+  "callback": "https://bk-lnbits.fly.dev/lnurlp/api/v1/lnurl/cb/3BBmaW",
+  "commentAllowed": 100, 
+  "maxSendable": 250000000, 
+  "metadata": "[[\"text/plain\", \"pod@nostrovia\"]]", 
+  "minSendable": 50000, 
+  "tag": "payRequest"
+}
+
