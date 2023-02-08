@@ -16,6 +16,8 @@ RSS: [https://anchor.fm/s/d8e8d5a4/podcast/rss](https://anchor.fm/s/d8e8d5a4/pod
 
 Twitter: [@nostroviapod](https://twitter.com/nostroviapod)
 
+Lightning Tips: nostrovia@getalby.com
+
 #### Hosts  
 **gsovereignty:** npub1mygerccwqpzyh9pvp6pv44rskv40zutkfs38t0hqhkvnwlhagp6s3psn5p   
 **bitkarrot:** npub18pudjhdhhp2v8gxnkttt00um729nv93tuepjda2jrwn3eua5tf5s80a699  
