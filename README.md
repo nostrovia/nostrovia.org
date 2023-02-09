@@ -16,14 +16,14 @@ RSS: [https://anchor.fm/s/d8e8d5a4/podcast/rss](https://anchor.fm/s/d8e8d5a4/pod
 
 ### Social
 
-The Nostrovia podcast now has a #Nostr account at : 
-npub1tr0va8lk35pp4lnk64ymneywdjmmq6juznxlg5ejerkhxgwk7ggsw5qqpx
+Nostr: npub1tr0va8lk35pp4lnk64ymneywdjmmq6juznxlg5ejerkhxgwk7ggsw5qqpx
 
-You can also send us lightning ⚡️ at pod@nostrovia.org
+Twitter: [@nostroviapod](https://twitter.com/nostroviapod)
+
+Lightning ⚡️ tips: pod@nostrovia.org
 
 https://sendsats.to/pod@nostrovia.org
 
-Twitter: [@nostroviapod](https://twitter.com/nostroviapod)
 
 #### Hosts  
 **gsovereignty:** npub1mygerccwqpzyh9pvp6pv44rskv40zutkfs38t0hqhkvnwlhagp6s3psn5p   
