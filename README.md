@@ -20,9 +20,13 @@ Nostr: npub1tr0va8lk35pp4lnk64ymneywdjmmq6juznxlg5ejerkhxgwk7ggsw5qqpx
 
 Twitter: [@nostroviapod](https://twitter.com/nostroviapod)
 
+##### Boosts
+
 Lightning ⚡️ tips: pod@nostrovia.org
 
 https://sendsats.to/pod@nostrovia.org
+
+On-chain: bc1qe8s03r4dg708re822wzekfmahqylqmtrywh0uf
 
 
 #### Hosts  
