@@ -31,7 +31,7 @@ On-chain: bc1qe8s03r4dg708re822wzekfmahqylqmtrywh0uf
 
 #### Hosts  
 [**gsovereignty:**](https://iris.to/gsovereignty@nostrovia.org) npub1mygerccwqpzyh9pvp6pv44rskv40zutkfs38t0hqhkvnwlhagp6s3psn5p   
-Electronics💥RF💥hardware💥embedded💥C💥c++💥rust💥go💥 Light infantary (HK battalion, small block div.) during XT & Segwit wars 💥 Peak of pull-request comedy career: github.com/diem/diem/pull/83 💥
+Electronics💥RF💥hardware💥embedded💥C💥c++💥rust💥go💥 Light infantary (HK battalion, small block div.) during XT & Segwit wars 💥 Peak of pull-request comedy career: [github.com/diem/diem/pull/83](https://github.com/diem/diem/pull/83) 💥
 
 [**bitkarrot:**](https://iris.to/bitkarrot@lnaddy.com) npub18pudjhdhhp2v8gxnkttt00um729nv93tuepjda2jrwn3eua5tf5s80a699  
 
