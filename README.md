@@ -11,6 +11,8 @@
 [Web](https://anchor.fm/nostrovia)
 
 [Spotify](https://open.spotify.com/show/3FKrua9rST5DDKv0WeAqWn)  
+
+[Apple](https://podcasts.apple.com/hk/podcast/nostrovia-the-nostr-podcast/id1678531266?l=en)  
    
 RSS: `https://anchor.fm/s/d8e8d5a4/podcast/rss`
 
