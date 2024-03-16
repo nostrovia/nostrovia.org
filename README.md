@@ -16,21 +16,6 @@
    
 RSS: `https://anchor.fm/s/d8e8d5a4/podcast/rss`
 
-### Social
-
-Nostr: npub1tr0va8lk35pp4lnk64ymneywdjmmq6juznxlg5ejerkhxgwk7ggsw5qqpx
-
-Twitter: [@nostroviapod](https://twitter.com/nostroviapod)
-
-##### Boosts
-
-Lightning ⚡️ tips: pod@nostrovia.org
-
-https://sendsats.to/pod@nostrovia.org
-
-On-chain: bc1qe8s03r4dg708re822wzekfmahqylqmtrywh0uf
-
-
 #### Hosts  
 [**gsovereignty:**](https://iris.to/gsovereignty@nostrovia.org) `npub1mygerccwqpzyh9pvp6pv44rskv40zutkfs38t0hqhkvnwlhagp6s3psn5p`   
 Electronics💥RF💥hardware💥embedded💥C💥c++💥rust💥go💥 Light infantary (HK battalion, small block div.) during XT & Segwit wars 💥 Peak of pull-request comedy career: [github.com/diem/diem/pull/83](https://github.com/diem/diem/pull/83) 💥
